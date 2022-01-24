@@ -1,6 +1,5 @@
 - 👋 Hi there, I’m @soemyatmyat
 - 👀 I’m passionate about algorithms, web development, IT strategies (planning & implementation), business needs analysis and solutioning.
-- 🌱 I’m currently learning solidity, Full stack, Spring (not in order).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
